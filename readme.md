@@ -13,6 +13,6 @@ git
 git clone https://github.com/Dendom0fon/5kasms
 cd 5kasms
 pip3 install requirements.txt
-python3 5kasms
+python3 5kasms.py
 
 
